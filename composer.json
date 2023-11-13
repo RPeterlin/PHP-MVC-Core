@@ -1,5 +1,5 @@
 {
-    "name": "rp/php-mvc-core",
+    "name": "rokpeterlin/php-mvc-core",
     "autoload": {
         "psr-4": {
             "Rp\\PhpMvcCore\\": "src/"
