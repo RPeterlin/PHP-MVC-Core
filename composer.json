@@ -1,0 +1,15 @@
+{
+    "name": "rp/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Rp\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RPeterlin",
+            "email": "rok.peterlin.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
