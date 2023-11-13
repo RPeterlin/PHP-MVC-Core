@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace rokpeterlin\phpmvc\exception;
 
 
 // extends core PHP Exception class

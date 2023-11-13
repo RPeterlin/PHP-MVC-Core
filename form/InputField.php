@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core\form;
+namespace rokpeterlin\phpmvc\form;
 
-use app\core\Model;
+use rokpeterlin\phpmvc\Model;
 
 class InputField extends BaseField
 {

@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core\db;
+namespace rokpeterlin\phpmvc\db;
 
-use app\core\Application;
+use rokpeterlin\phpmvc\Application;
 
 class Database
 {

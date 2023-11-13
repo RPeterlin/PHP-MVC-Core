@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace rokpeterlin\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use rokpeterlin\phpmvc\db\Database;
+use rokpeterlin\phpmvc\db\DbModel;
 
 class Application
 {
@@ -27,7 +27,7 @@ class Application
   {
     self::$ROOT_DIR = $rootPath;
     self::$app = $this;
-    // $this->request = new \app\core\Request();
+    // $this->request = new \rokpeterlin\phpmvc\Request();
     $this->request = new Request();
     $this->response = new Response();
     $this->session = new Session();

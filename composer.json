@@ -2,7 +2,7 @@
     "name": "rokpeterlin/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Rp\\PhpMvcCore\\": "src/"
+            "rokpeterlin\\phpmvc\\": "src/"
         }
     },
     "authors": [

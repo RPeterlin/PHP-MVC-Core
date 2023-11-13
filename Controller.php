@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace rokpeterlin\phpmvc;
 
-use app\core\Application;
-use app\core\middlewares\BaseMiddleware;
+use rokpeterlin\phpmvc\Application;
+use rokpeterlin\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

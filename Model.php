@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace rokpeterlin\phpmvc;
 
 
 abstract class Model

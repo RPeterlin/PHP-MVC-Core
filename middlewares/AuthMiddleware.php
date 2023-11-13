@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace rokpeterlin\phpmvc\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use rokpeterlin\phpmvc\Application;
+use rokpeterlin\phpmvc\exception\ForbiddenException;
 
 
 class AuthMiddleware extends BaseMiddleware

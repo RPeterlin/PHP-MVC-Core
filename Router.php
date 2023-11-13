@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace rokpeterlin\phpmvc;
 
 use \app\controllers\SiteController;
-use app\core\exception\NotFoundException;
+use rokpeterlin\phpmvc\exception\NotFoundException;
 
 class Router
 {

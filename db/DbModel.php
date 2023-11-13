@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace rokpeterlin\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use rokpeterlin\phpmvc\Application;
+use rokpeterlin\phpmvc\Model;
 
 // It will map user's model (class) into database table
 abstract class DbModel extends Model
