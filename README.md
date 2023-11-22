@@ -1,0 +1,1 @@
+A simple MCV framework built from scratch in PHP, whose purpose is to better understand how things work under the hood in actual frameworks like Laravel. It was made into a package installable by composer with: ```composer require rokpeterlin/php-mvc-core```
